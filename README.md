@@ -1,4 +1,4 @@
 # KSA Motors Linear Regression
 
-<img src="https://user-images.githubusercontent.com/93085248/143436969-cfb47e53-d5de-4707-9b96-36b219801986.png)
+<img src="https://ymimg1.b8cdn.com/resized/article/7907/pictures/7368816/listing_main_Nevera-Dubai-Expo-4-1200x797.jpeg")
 " width="500">
