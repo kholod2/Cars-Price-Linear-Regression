@@ -1,1 +1,24 @@
 
+## Introduction
+With the different manufacturers of cars, the characteristics and features of the car differ from one company to another, from the most common characteristics can be considered the manufacturer , cylinders , engine , drive type , horsepower , fuel type and much more.
+This project aims to build a linear regression model on the characteristics and the types of the cars, As the model aims to predict the prices of the cars in the future based on the most important characteristics that affect its value in the market.
+
+## Problem statement
+Can this model really predict car  prices based on car specifications and  features?
+
+## Data Description
+The data to be tested in this project is scraped from yallamotor.com/
+
+## Tools
+●	Software platform: Jupyter Notebook
+●	Programming language: Python
+●	Includes libraries:
+○	sklearn.model_selection
+○	statsmodels.api
+○	sklearn.metrics
+○	statsmodels.formula.api
+○	sklearn.linear_model
+○	Pandas
+○	Numpy
+○	Seaborn
+○	Matplotlib
