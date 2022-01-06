@@ -6,3 +6,13 @@
 width="900">
 
 
+## Tools :
+- Python
+- Jupyter
+
+## Python Libraries :
+- Numpy
+- Panda
+- Matplotlib
+- Seaborn
+- sklearn
